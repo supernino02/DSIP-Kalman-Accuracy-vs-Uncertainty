@@ -54,10 +54,10 @@ pip install numpy matplotlib plotly scipy opencv-python perlin-noise jupyter
 Here are some examples of the trajectory estimations demonstrating the scope of the project:
 
 ### Baseline Simulation
-<video src="animation.mp4" controls="controls" muted="muted" width="600"></video>
+<video src="https://raw.githubusercontent.com/supernino02/DSIP-Kalman-Accuracy-vs-Uncertainty/main/animation.mp4" controls="controls" muted="muted" width="600"></video>
 
 ### Kalman Filter Model 1A
-<video src="model_1A.mp4" controls="controls" muted="muted" width="600"></video>
+<video src="https://raw.githubusercontent.com/supernino02/DSIP-Kalman-Accuracy-vs-Uncertainty/main/model_1A.mp4" controls="controls" muted="muted" width="600"></video>
 
 ### Kalman Filter Model 2
-<video src="model_2.mp4" controls="controls" muted="muted" width="600"></video>
+<video src="https://raw.githubusercontent.com/supernino02/DSIP-Kalman-Accuracy-vs-Uncertainty/main/model_2.mp4" controls="controls" muted="muted" width="600"></video>
