@@ -49,3 +49,15 @@ pip install numpy matplotlib plotly scipy opencv-python perlin-noise jupyter
 - Predicted vs reference trajectory visualizations.
 - Quantitative comparison of Kalman filter variants.
 - Error and uncertainty-oriented evaluation artifacts.
+
+## Visual Previews
+Here are some examples of the trajectory estimations demonstrating the scope of the project:
+
+### Baseline Simulation
+<video src="animation.mp4" controls="controls" muted="muted" width="600"></video>
+
+### Kalman Filter Model 1A
+<video src="model_1A.mp4" controls="controls" muted="muted" width="600"></video>
+
+### Kalman Filter Model 2
+<video src="model_2.mp4" controls="controls" muted="muted" width="600"></video>
